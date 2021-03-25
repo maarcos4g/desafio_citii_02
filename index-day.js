@@ -5,7 +5,6 @@ function getRandom(min, max) {
   let largura = window.innerWidth;
   let altura = window.innerHeight;
   
-  let cloud1, cloud2, cloud3, cloud4;
   let sun;
   
   let x1, x2, x3, x4;
